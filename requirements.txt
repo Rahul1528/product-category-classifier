@@ -1,0 +1,12 @@
+# Core ML library (choose one)
+# tensorflow # Use this if you have a compatible NVIDIA GPU + CUDA setup
+tensorflow-cpu # Use this if you have no GPU or haven't set up CUDA
+
+# Web app framework
+streamlit
+
+# Image handling
+Pillow
+
+# Numerical operations (usually a dependency of TensorFlow, but good to list)
+numpy
