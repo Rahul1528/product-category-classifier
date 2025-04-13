@@ -1,0 +1,13 @@
+# Virtual environment folder
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files (optional but good practice)
+.DS_Store
+Thumbs.db
+
+# Optional: If you DON'T want to commit the raw dataset images
+# dataset/
